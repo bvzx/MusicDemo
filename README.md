@@ -1,4 +1,4 @@
-# NewMusic
+# MusicDemo
 
 *   图片资源：网易云音乐apktool反编译
 *   歌曲api地址：http://apistore.baidu.com/apiworks/servicedetail/1020.html
