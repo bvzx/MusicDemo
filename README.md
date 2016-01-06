@@ -7,4 +7,3 @@
 *   ![image](https://github.com/bvzx/MusicDemo/blob/master/app/img/2.jpg)
 *   ![image](https://github.com/bvzx/MusicDemo/blob/master/app/img/3.jpg)
 *   ![image](https://github.com/bvzx/MusicDemo/blob/master/app/img/4.jpg)
-*   ![image](https://github.com/bvzx/MusicDemo/blob/master/app/img/5.jpg)
