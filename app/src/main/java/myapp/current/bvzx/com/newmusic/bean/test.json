@@ -1,0 +1,94 @@
+{
+  "status": "success",
+  "code": 0,
+  "data": {
+    "data": {
+      "count": 3481,
+      "totalPages": 349,
+      "s": "\u5929\u4e0b",
+      "nowPage": "1",
+      "list": [
+        {
+          "songId": 27571867,
+          "songName": "\u503e\u5c3d\u5929\u4e0b",
+          "userName": "\u6cb3\u56fe",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/nlocSgc4D7T-h6S3f6IybQ==\/6003333487842277.jpg",
+          "albumName": "\u503e\u5c3d\u5929\u4e0b",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/sWZGD7HHFWop_TEkNUWo-A==\/5775734580842800.mp3"
+        },
+        {
+          "songId": 28947115,
+          "songName": "\u5929\u4e0b\u5e73\u5b89",
+          "userName": "\u97e9\u7ea2",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/XnrjtUNFw27BcNz7buFZ0A==\/8887352487469631.jpg",
+          "albumName": "\u5929\u4e0b\u5e73\u5b89",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/ih6_MEpa-UkOxEyOxWarSw==\/8902745650318037.mp3"
+        },
+        {
+          "songId": 171202,
+          "songName": "\u5929\u4e0b\u65e0\u654c",
+          "userName": "\u718a\u6c5d\u9716",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/Lx9LatV_Un5jE7chMZL62w==\/61572651160833.jpg",
+          "albumName": "\u5929\u4e0b\u65e0\u654c",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/JfLCVawf0gkGwcKBbLLFsA==\/3223768093584746.mp3"
+        },
+        {
+          "songId": 33955980,
+          "songName": "\u5929\u4e0b\u5e73\u5b89",
+          "userName": "\u59da\u8d1d\u5a1c",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/cRv7A-EfYuP3t66FywkewA==\/3378799232408916.jpg",
+          "albumName": "\u5929\u4e0b\u5e73\u5b89",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/Cvnq6ODRf4IHt2Ro0BQS_A==\/3319425604605875.mp3"
+        },
+        {
+          "songId": 28884361,
+          "songName": "\u5929\u4e0b\u5927\u540c",
+          "userName": "\u8521\u6653",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/Ty1brEDZMXDmM-wQSa81EA==\/5975845697563127.jpg",
+          "albumName": "\u5929\u4e0b\u5927\u540c",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/-7QR9Ot-B25RDEZC3_L5bQ==\/8937930022215191.mp3"
+        },
+        {
+          "songId": 30854398,
+          "songName": "\u6743\u5fa1\u5929\u4e0b",
+          "userName": "\u6d1b\u5929\u4f9d",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/vkoQqphGwk6TyRFai3ZBdw==\/3238061743857732.jpg",
+          "albumName": "\u6d1b\u5929\u4f9d\u4f5c\u54c1\u96c6",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/-EJAmltT7WksuDXoNXJ9-w==\/7842816441322271.mp3"
+        },
+        {
+          "songId": 25783001,
+          "songName": "\u5929\u4e0b\u7684\u59d0\u59b9",
+          "userName": "\u51e4\u51f0\u4f20\u5947",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/aq-3iYfjSsA13V9zm2K4kw==\/2526677720646849.jpg",
+          "albumName": "\u5929\u4e0b\u7684\u59d0\u59b9",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/Z9azItAzZZ92PlDWn1xDkw==\/2029698464886477.mp3"
+        },
+        {
+          "songId": 390832,
+          "songName": "\u5929\u4e0b\u65e0\u8d3c",
+          "userName": "\u7fbd\u00b7\u6cc9",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/Wq4rxcViaIsfYlcF148SxA==\/62672162798071.jpg",
+          "albumName": "\u5929\u4e0b\u65e0\u8d3c",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/FEI9tlaxfjWssTW5CyZRZQ==\/2141848650913432.mp3"
+        },
+        {
+          "songId": 27580924,
+          "songName": "\u5929\u4e0b\u6709\u60c5\u4eba",
+          "userName": "\u5f90\u5343\u96c5",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/WxeytDhsEKBWFA8o4z-28w==\/5638295627319083.jpg",
+          "albumName": "\u5929\u4e0b\u6709\u60c5\u4eba",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/yRRF2e_tUfYtubksOe941w==\/5651489766852402.mp3"
+        },
+        {
+          "songId": 25862961,
+          "songName": "\u5929\u4e0b\u4f1a",
+          "userName": "\u7fa4\u661f",
+          "albumPic": "http:\/\/p1.resources.yunloo.net\/gcPxBfq9D8KjACNWViji2A==\/2444214348571687.jpg",
+          "albumName": "\u98ce\u4e91\u96c4\u9738\u5929\u4e0b",
+          "songUrl": "http:\/\/m2.resources.yunloo.net\/dQy4cW2zGcCeKHy5bFFOjg==\/2800456115955293.mp3"
+        }
+      ]
+    }
+  }
+}

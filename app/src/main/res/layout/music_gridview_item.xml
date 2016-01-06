@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:padding="4dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:id="@+id/gv_img"
+            android:background="@drawable/gv_o"
+            android:layout_width="110dp"
+            android:layout_height="110dp" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:gravity="right"
+            android:background="@drawable/cover_border_mask_top"
+            android:layout_height="wrap_content">
+            <TextView
+                android:gravity="right"
+                android:text="105w"
+                android:textSize="11sp"
+                android:textColor="@android:color/white"
+                android:layout_marginRight="5dp"
+                android:layout_alignParentTop="true"
+                android:drawablePadding="4dp"
+                android:layout_alignParentRight="true"
+                android:drawableLeft="@drawable/index_icn_earphone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </RelativeLayout>
+    <TextView
+        android:text="网易云音乐,听见好时光"
+        android:id="@+id/gv_text"
+        android:paddingTop="4dp"
+        android:paddingBottom="4dp"
+        android:textSize="12sp"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:textColor="@android:color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
